@@ -1,4 +1,4 @@
-# Nearest-Neighbour-on-Wine
+# Nearest Neighbour on Wine
 Matlab implementation of the nearest neighbour model/algorithm applied on the wine uci-ml database
 
 
